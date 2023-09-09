@@ -12,7 +12,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] This item is not complete
 - [ ] This is a test
 - [x] test done
-- [ ] list
+- [x] list
 
 # Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.
